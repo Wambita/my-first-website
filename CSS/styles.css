@@ -1,0 +1,35 @@
+h1 {
+  color: #00f;
+  text-align: center;
+  font-size: 5em;
+  font-family: sans-serif;
+}
+h2{
+  color: green;
+  font-style: italic;
+  text-align: center;
+  font-family: cursive;
+}
+p{
+  font-family: sans-serif;
+  color:green;
+  font-size: 1.5em;
+  font-style: oblique;
+}
+ul{
+  line-height: 40px;
+}
+body{
+  background-color: #151515;
+}
+li{
+  font-size: 2em;
+  font-family: monospace;
+  color: inherit;
+  line-height: normal;
+}
+h3{
+  font-size: 3em;
+  font-family: fantasy;
+  color:purple;
+}
